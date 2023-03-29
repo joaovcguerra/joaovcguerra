@@ -1,16 +1,14 @@
-### Hi there 👋
+### **Hi! Welcome to my profile!** ✌️
 
-<!--
-**joaovcguerra/joaovcguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Hey there! I'm **João Vitor**, a computer science **student** with a passion for software development. My primary experience is with **Java** and **Python**, but I'm always eager to learn more about new technologies and tools.*
 
-Here are some ideas to get you started:
+*I'm **always** on the lookout for interesting ideas to work on. In the meantime, I'm spending my time **learning** more about different **programming languages** and **technologies** to broaden my **skill set**.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*My main goal is to become a **well-rounded developer** with a deep understanding of **fundamental computer science concepts**. I believe that this foundation will help me succeed in any **programming role**, regardless of the specific technology or language used.*
+
+*If you're interested in **connecting**, feel free to reach out to me. I'm always open to talking about **software development**, **programming languages**, and other related topics.*
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovcguerra&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Vitor github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovcguerra&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
