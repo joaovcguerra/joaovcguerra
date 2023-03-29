@@ -6,8 +6,6 @@
 
 *My main goal is to become a **well-rounded developer** with a deep understanding of **fundamental computer science concepts**. I believe that this foundation will help me succeed in any **programming role**, regardless of the specific technology or language used.*
 
-*If you're interested in **connecting**, feel free to reach out to me. I'm always open to talking about **software development**, **programming languages**, and other related topics.*
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaovcguerra&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Vitor github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovcguerra&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
