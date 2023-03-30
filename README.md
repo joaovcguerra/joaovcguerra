@@ -1,6 +1,6 @@
 ### **Hi! Welcome to my profile!** ✌️
 
-*Hey there! I'm **João Vitor**, a computer science **student** with a passion for software development. My primary experience is with **Java** and **Python**, but I'm always eager to learn more about new technologies and tools.*
+*Hello there! I'm **João Vitor**, a computer science **student** with a passion for software development. My primary experience is with **Java** and **Python**, but I'm always eager to learn more about new technologies and tools.*
 
 *I'm **always** on the lookout for interesting ideas to work on. In the meantime, I'm spending my time **learning** more about different **programming languages** and **technologies** to broaden my **skill set**.*
 
