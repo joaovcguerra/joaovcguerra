@@ -2,8 +2,6 @@
 
 *Hello there! I'm **João Vitor**, a computer science **student** with a passion for software development. My primary experience is with **Java** and **Python**, but I'm always eager to learn more about new technologies and tools.*
 
-*I'm **always** on the lookout for interesting ideas to work on. In the meantime, I'm spending my time **learning** more about different **programming languages** and **technologies** to broaden my **skill set**.*
-
 *My main goal is to become a **well-rounded developer** with a deep understanding of **fundamental computer science concepts**. I believe that this foundation will help me succeed in any **programming role**, regardless of the specific technology or language used.*
 
 <div align="center">  
